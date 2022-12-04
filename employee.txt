@@ -1,0 +1,1 @@
+Employee{name='Taras', address='Lviv', salary=1000, position='Manager'}
